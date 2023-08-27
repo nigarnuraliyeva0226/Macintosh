@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}            
+div.header {
+    background-color: yellow
+}
+.th {
+    font-style: italic;
+}
+
+.first {
+color: rgb(155, 154, 154);
+}
+.second {
+    color: rgb(155, 154, 154);
+
+}
